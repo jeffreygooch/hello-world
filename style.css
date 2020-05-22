@@ -1,0 +1,23 @@
+h3{
+    color:green
+}
+body{
+    background-color:#CCD1D1;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    /* same as above */
+    font:noraml 16px Verdana, Geneva, Tahoma, sans-serif ;
+
+    line-height: 1.6em;
+    margin: 0;
+}
+
+.container{
+    width:80%;
+    margin: auto;
+}
+
+.box-1{
+    background-color: honeydew;
+}
